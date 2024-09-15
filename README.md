@@ -1,1 +1,1 @@
-This project of mine features a basic website concerning recipes. The website will consist of a main index page which will have links to a few recipes. When completed, this project will demonstrate that I have a basic understanding of HTML as well as improving on Git commits.
+This project features a simple website that lists several recipes. The website consists of a main index page containing links to several recipes. This project demonstrates the necessity of having a basic understanding of HTML as well as the importance of writing Git commit messages early and often.
