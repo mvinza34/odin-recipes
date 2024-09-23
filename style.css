@@ -1,0 +1,15 @@
+/* classes for all webpages*/
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+
+/* classes for index.html */
+.title {
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+}
+
+.links {
+    font-size: 20px;
+}
