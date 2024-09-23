@@ -1,15 +1,20 @@
-/* classes for all webpages*/
+/* classes and styles for all webpages*/
 body {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Verdana, Arial, Helvetica, sans-serif
   }
 
-/* classes for index.html */
 .title {
     color: orange;
     text-align: center;
     font-size: 50px;
 }
 
+.heading {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
 .links {
-    font-size: 20px;
+    font-size: 15px;
 }
