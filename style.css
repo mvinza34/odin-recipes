@@ -1,17 +1,33 @@
 body {
-    font-family: 'Courier New', Verdana, Arial, Helvetica, sans-serif
+    font-family: 'Courier New', Verdana, Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background: #eee;
   }
 
 .title {
     color: orange;
+    background-color: green;
     text-align: center;
     font-size: 50px;
+    border: 8px solid red;
+    height: auto;
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+
 }
 
 .heading {
     color: red;
+    border: 8px solid lightseagreen;
+    border-radius: 10px 0;
     font-size: 30px;
     text-align: center;
+    height: 10px;
+    width: 200px;
+    margin: 20px auto;
+    padding: 30px 30px;
+
 }
 
 .links {
