@@ -14,8 +14,8 @@ body {
     height: auto;
     width: 400px;
     margin: 30px auto;
+    margin-bottom: 70px;
     padding: 20px;
-
 }
 
 .heading {
@@ -28,9 +28,15 @@ body {
     width: 200px;
     margin: 20px auto;
     padding: 25px;
+}
 
+.content {
+    margin: 35px;
+    padding: 10px;
 }
 
 .links {
     font-weight: bold;
+    margin: 35px;
+    padding: 10px;
 }
