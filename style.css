@@ -20,6 +20,7 @@ body {
 
 .heading {
     color: red;
+    background-color: yellow;
     border: 8px solid lightseagreen;
     border-radius: 10px 0;
     font-size: 25px;
