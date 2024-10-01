@@ -9,7 +9,7 @@ body {
     background-color: green;
     text-align: center;
     font-size: 50px;
-    border: 8px solid red;
+    border: 8px double red;
     border-radius: 10px 0;
     height: auto;
     width: 400px;
@@ -21,7 +21,7 @@ body {
 .heading {
     color: red;
     background-color: yellow;
-    border: 8px solid lightseagreen;
+    border: 8px inset lightseagreen;
     border-radius: 10px 0;
     font-size: 25px;
     text-align: center;
